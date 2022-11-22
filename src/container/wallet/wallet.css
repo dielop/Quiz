@@ -1,0 +1,26 @@
+.container {
+    background-color:rgb(179, 224, 242);
+    align-content: center;
+    border-radius: 5px;
+    height: 90vh;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    
+}
+
+.botones{
+    bottom:0;
+    position:absolute;
+    margin-bottom:5vh;
+    text-align:center;
+}
+
+.titulo {
+    text-align: center;
+    margin-top:20vh;
+}
+
+.iniciar{
+    text-align: center;
+    margin-top:20vh;
+}

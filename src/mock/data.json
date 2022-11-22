@@ -1,0 +1,72 @@
+[
+   {
+      "id":1,
+      "summary": "Cual es el tag de este jugador de CS GO?",
+      "body":  "<img src= 'https://cdn01.x-plarium.com/browser/content/blog/images/2022/interview-s1mple.webp'>",
+      "lifetimeSeconds":10,
+      "answers": [
+         {
+            "id":1,
+            "body": "  S1mple",
+            "isCorrectAnswer": true
+         },
+         {
+            "id":2,
+            "body": "  Kun",
+            "isCorrectAnswer": false
+         },
+         {
+            "id":3,
+            "body": "  falleN",
+            "isCorrectAnswer": false
+         }
+      ]
+   },
+   {
+      "id":2,
+      "summary": "Como es el apellido de este jugador de futbol?",
+      "body": "<img src='http://c.files.bbci.co.uk/14554/production/_114248238_messi-pa.jpg'>",
+      "lifetimeSeconds":5,
+      "answers": [
+         {
+            "id":1,
+            "body": "  Suarez ",
+            "isCorrectAnswer": false
+         },
+         {
+            "id":2,
+            "body": "  Messi ",
+            "isCorrectAnswer": true
+         },
+         {
+            "id":3,
+            "body": "  Ronaldo ",
+            "isCorrectAnswer": false
+         }
+      ]
+   },
+   {
+      "id":3,
+      "summary": "Donde podemos ubicar el lugar de la foto?",
+      "body": "<img src='https://www.fundacionaquae.org/wp-content/uploads/2016/01/800px_iguacu-002.jpg.webp'>",
+      "lifetimeSeconds":5,
+      "answers": [
+         {
+            "id":1,
+            "body": "  Argentina ",
+            "isCorrectAnswer": true
+         },
+         {
+            "id":2,
+            "body": "  Brasil ",
+            "isCorrectAnswer": false
+         },
+         {
+            "id":3,
+            "body": "  España",
+            "isCorrectAnswer": false
+         }
+      ]
+   }
+
+]
